@@ -25,5 +25,5 @@ A list of my GitHub repositories with Parallax Scrolling
 * Parallax Scrolling
 
 ## Demo
-Here is a working live demo: https://jenniesh.github.io/repolist/
+Here is a working live demo: https://jenniesh.github.io/repolist
 
