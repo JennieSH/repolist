@@ -22,12 +22,17 @@ module.exports = {
         }
       },
       {
-        test: /\.css$/,
+        test: /\.(css|scss|sass)$/,
         use: [
             'style-loader',
             'css-loader',
+            'sass-loader'
         ],             
       },
+      {
+        test: /\.(gif|svg|jpg|png)$/,
+        loader: "file-loader",
+      }
     ]
   }
 };

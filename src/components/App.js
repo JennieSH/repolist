@@ -1,12 +1,12 @@
 import React from "react";
 import RepoDataContextProvider from "../context/repoData";
-import Nav from "./Nav";
 import RepoList from "./RepoList";
+import "../reset.css";
+import "../index.scss";
 
 
 const App = () => (
     <RepoDataContextProvider>
-        <Nav />
         <RepoList />
     </RepoDataContextProvider>
 );

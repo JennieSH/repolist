@@ -1,0 +1,64 @@
+.context:nth-child(1){
+    background-image: url("https://images.unsplash.com/photo-1520330657470-5de57fd66b3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    &::before{
+        content:"JennieSH Github";
+        background-color: #eee;
+        opacity: 0.8;
+        color: #000000;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    
+}
+.context:nth-child(2){
+    background-color: #DED9C4;
+}
+.context:nth-child(3){
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+
+}
+.context:nth-child(4){
+    background-color: #d9d8d4;
+}
+
+.context:nth-child(5){
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+}
+.context:nth-child(6){
+    background-color: #e3d9c6;
+}
+.context:nth-child(7){
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+}
+.context:nth-child(8){
+    background-color: #f5d3c9;
+}
+.context:nth-child(9){
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+}
+.context:nth-child(10){
+    background-color: #e2d7d9;
+}
+.context:nth-child(11){
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+}
+.context:nth-child(12){
+    background-color: #ede6e7;
+}
